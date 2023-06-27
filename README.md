@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi there 👋 I am Akın Topbaş<br><br>🔭 I’m currently working for Turkcell Technology<br>💬 Ask me about Clean Architecture, Docker, Microservices, Java, C#<br>📫 How to reach me: akintopbas96 at gmail dot com<br>😄 Pronouns: he/him
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akintopbas_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akintopbas) 
